@@ -1,0 +1,3 @@
+﻿  main.cpp
+d:\college\systems\svn folder\lab09\lab9\main.cpp(9): warning C4189: 'three': local variable is initialized but not referenced
+  Lab9.vcxproj -> D:\College\Systems\SVN Folder\Lab09\Debug\Lab9.exe

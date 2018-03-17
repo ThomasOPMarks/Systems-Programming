@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\college\systems\svn folder\lab13\lab13\main.cpp(91): warning C4100: 'argv': unreferenced formal parameter
+d:\college\systems\svn folder\lab13\lab13\main.cpp(91): warning C4100: 'argc': unreferenced formal parameter
+  Lab13.vcxproj -> D:\College\Systems\SVN Folder\Lab13\Debug\Lab13.exe

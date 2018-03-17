@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\college\systems\svn folder\lab7\lab7\main.cpp(24): warning C4018: '<': signed/unsigned mismatch
+d:\college\systems\svn folder\lab7\lab7\main.cpp(20): warning C4717: 'stackOverflow': recursive on all control paths, function will cause runtime stack overflow
+  Lab7.vcxproj -> D:\College\Systems\SVN Folder\Lab7\Debug\Lab7.exe

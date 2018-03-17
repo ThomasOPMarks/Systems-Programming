@@ -1,0 +1,51 @@
+﻿  VoxelModel.cpp
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(53): warning C4458: declaration of 'x' hides class member
+  d:\college\systems\svn folder\homework5\homework5\voxelmodel.h(29): note: see declaration of 'VoxelModel::x'
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(53): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(54): warning C4458: declaration of 'y' hides class member
+  d:\college\systems\svn folder\homework5\homework5\voxelmodel.h(30): note: see declaration of 'VoxelModel::y'
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(54): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(55): warning C4458: declaration of 'z' hides class member
+  d:\college\systems\svn folder\homework5\homework5\voxelmodel.h(31): note: see declaration of 'VoxelModel::z'
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(66): warning C4458: declaration of 'x' hides class member
+  d:\college\systems\svn folder\homework5\homework5\voxelmodel.h(29): note: see declaration of 'VoxelModel::x'
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(66): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(67): warning C4458: declaration of 'y' hides class member
+  d:\college\systems\svn folder\homework5\homework5\voxelmodel.h(30): note: see declaration of 'VoxelModel::y'
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(67): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(68): warning C4458: declaration of 'z' hides class member
+  d:\college\systems\svn folder\homework5\homework5\voxelmodel.h(31): note: see declaration of 'VoxelModel::z'
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(68): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(79): warning C4458: declaration of 'x' hides class member
+  d:\college\systems\svn folder\homework5\homework5\voxelmodel.h(29): note: see declaration of 'VoxelModel::x'
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(79): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(80): warning C4458: declaration of 'y' hides class member
+  d:\college\systems\svn folder\homework5\homework5\voxelmodel.h(30): note: see declaration of 'VoxelModel::y'
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(80): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(81): warning C4458: declaration of 'z' hides class member
+  d:\college\systems\svn folder\homework5\homework5\voxelmodel.h(31): note: see declaration of 'VoxelModel::z'
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(81): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(128): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(129): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(130): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(131): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(132): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(133): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(137): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(138): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(139): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(141): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(142): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(143): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(145): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(146): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(147): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(149): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(150): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(151): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\college\systems\svn folder\homework5\homework5\voxelmodel.cpp(223): warning C4189: 'a': local variable is initialized but not referenced
+  main.cpp
+  BitVector.cpp
+  Generating Code...
+  Homework5.vcxproj -> D:\College\Systems\SVN Folder\Homework5\Debug\Homework5.exe

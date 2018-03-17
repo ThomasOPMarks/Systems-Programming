@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\college\systems\svn folder\lab14\lab14\main.cpp(65): warning C4018: '<': signed/unsigned mismatch
+d:\college\systems\svn folder\lab14\lab14\main.cpp(70): warning C4018: '<': signed/unsigned mismatch
+d:\college\systems\svn folder\lab14\lab14\main.cpp(75): warning C4018: '<': signed/unsigned mismatch
+d:\college\systems\svn folder\lab14\lab14\main.cpp(93): warning C4100: 'argv': unreferenced formal parameter
+d:\college\systems\svn folder\lab14\lab14\main.cpp(93): warning C4100: 'argc': unreferenced formal parameter
+  Lab14.vcxproj -> D:\College\Systems\SVN Folder\Lab14\Debug\Lab14.exe
